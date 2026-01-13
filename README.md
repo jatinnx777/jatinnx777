@@ -21,14 +21,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jatin-kumar-38373736b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/jatinnx777/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
@@ -51,14 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jatinnx777/jatinnx777/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img height="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcG41czFpa2xxMm9ocGVhcWY1amR5djZ1bDlqdGdnY2M1N2ZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSv7VsSjc7bCOFU7Pa/giphy.gif"  />
+  <img height="353" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcG41czFpa2xxMm9ocGVhcWY1amR5djZ1bDlqdGdnY2M1N2ZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSv7VsSjc7bCOFU7Pa/giphy.gif"  />
 </div>
 
 ###
