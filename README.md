@@ -52,7 +52,4 @@
 <div align="center">
   <img height="353" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BmcG41czFpa2xxMm9ocGVhcWY1amR5djZ1bDlqdGdnY2M1N2ZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSv7VsSjc7bCOFU7Pa/giphy.gif"  />
 </div>
-![trophy](https://github-profile-trophy.vercel.app/?username=jatinx777&theme=darkhub)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinx777&show_icons=true&theme=tokyonight)
-
 ###
