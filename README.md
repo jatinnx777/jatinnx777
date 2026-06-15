@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤍 Hey , I'm Jatin <br><br>🌱 Interested in on-device ML and offline-first systems ML<br><br>📫 How to reach me -  jaykumar2470f@gmail.com<br><br>⚡ Fun fact - You can connect me via ig!
+🤍 Hey , I'm Jatin <br><br>🌱 Interested in on-device ML and offline-first systems ><br>📫 How to reach me -  jaykumar2470f@gmail.com<br><br>⚡ Fun fact - You can connect me via ig!
 
 
 ## 🌐 Socials:
