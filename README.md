@@ -7,12 +7,9 @@
 #  Currently Building
 
 ```yaml
-Name     : Jatin 
-
 APP      : ORBII
 
-Mission  : Building India's AI-powered personal safety platform
-           for women.
+Mission  : Building India's AI-powered personal safety platform .
 
 Focus    :
            • Offline Voice SOS
