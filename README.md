@@ -7,9 +7,9 @@
 #  Currently Building
 
 ```yaml
-Founder  : Jatin Kumar
+Name     : Jatin 
 
-Startup  : ORBII
+APP      : ORBII
 
 Mission  : Building India's AI-powered personal safety platform
            for women.
@@ -22,7 +22,7 @@ Focus    :
 
 Stack    : Flutter • Supabase • Kotlin • AI
 
-Status   :  Shipping every day.
+Status   :  Testing Version 2 .
 ```
 
 ---
