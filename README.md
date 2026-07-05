@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFrMHczN21hOWIxZnJjN3FnOXVmY2tjdXJsNHEyMGRwbGVwaGY2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDddTpKFicmPPRJ819/giphy.gif" width="100%" />
-</p>
+</p> 
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jatinnx777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jatinnx777) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jatinnx777) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jatinnx777) 
 
