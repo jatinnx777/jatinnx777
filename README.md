@@ -7,19 +7,21 @@
 #  Currently Building
 
 ```yaml
-APP      : ORBII
+APP      : ORBII Safety
 
-Mission  : Building India's AI-powered personal safety platform .
+Mission  : Building resilient emergency communication infrastructure.
 
 Focus    :
-           • Offline Voice SOS
-           • AI Emergency Detection
-           • Verified Helper Network
-           • Real-time Live Response
+  • Bluetooth Mesh Networking
+  • Offline Voice SOS
+  • AI Emergency Detection
+  • Device-to-Device Relay
+  • Verified Helper Network
+  • Real-time Incident Response
 
 Stack    : Flutter • Supabase • Kotlin • AI
 
-Status   :  Testing Version 2 .
+Status   :  PUBLIC BETA 
 ```
 
 ---
