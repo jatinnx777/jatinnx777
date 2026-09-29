@@ -21,7 +21,7 @@ Focus    :
 
 Stack    : Flutter • Supabase • Kotlin • AI
 
-Status   :  PUBLIC BETA 
+Status   :  PUBLICALLY LAUNCHED
 ```
 
 ---
