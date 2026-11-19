@@ -7,22 +7,23 @@
 #  Currently Building
 
 ```yaml
-APP      : ORBII Safety
+APP     : ORBII Safety (ORBII Teams & ORBII Campus)
 
-Mission  : Building resilient emergency communication infrastructure.
+Mission : Building privacy-first emergency response and frontline safety infrastructure for India.
 
-Focus    :
-  • Bluetooth Mesh Networking
-  • Offline Voice SOS
-  • AI Emergency Detection
-  • Device-to-Device Relay
-  • Verified Helper Network
-  • Real-time Incident Response
+Focus   :
+  • Offline On-Device Voice SOS & SMS/112 Dispatch
+  • ORBII Teams (Pre-Trip Checklists, Hazard Reporting & Site Safety Scores)
+  • ORBII Campus (Zero-Tracking Safe Walks, Unsafe Spot Maps & Crisis Checks)
+  • Real-Time Command Consoles with Tamper-Proof Audit Logs
+  • Database-Enforced Privacy (DPDP Act Compliant, Zero Passive Tracking)
 
-Stack    : Flutter • Supabase • Kotlin • AI
+Stack   : Flutter • Kotlin • Supabase (AWS Mumbai) • On-Device AI
 
-Status   :  PUBLICALLY LAUNCHED
-```
+Links   : https://orbii.in | https://orbii.in/orbii-teams | https://orbii.in/orbii-campus
+
+Status  : PUBLICLY LAUNCHED (100+ Automated Security Tests Passing)
+
 
 ---
 
