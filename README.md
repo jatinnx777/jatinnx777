@@ -7,9 +7,6 @@
 #  Currently Building
 
 ```yaml
-### Currently Building
-
-```yaml
 APP     : ORBII Safety (ORBII Teams & ORBII Campus)
 
 Mission : Building privacy-first emergency response and frontline safety infrastructure for India.
