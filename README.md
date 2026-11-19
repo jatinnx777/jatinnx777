@@ -7,6 +7,9 @@
 #  Currently Building
 
 ```yaml
+### Currently Building
+
+```yaml
 APP     : ORBII Safety (ORBII Teams & ORBII Campus)
 
 Mission : Building privacy-first emergency response and frontline safety infrastructure for India.
@@ -20,12 +23,11 @@ Focus   :
 
 Stack   : Flutter • Kotlin • Supabase (AWS Mumbai) • On-Device AI
 
-Links   : https://orbii.in | https://orbii.in/orbii-teams | https://orbii.in/orbii-campus
+Links   : https://orbii.in | https://orbii.in | https://orbii.in
 
 Status  : PUBLICLY LAUNCHED (100+ Automated Security Tests Passing)
+```
 
-
----
 
 # 💻 Tech Stack
 
